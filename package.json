@@ -1,0 +1,7 @@
+{
+  "name": "multi-databases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "deal-machine <95deal@gmail.com>",
+  "license": "MIT"
+}
